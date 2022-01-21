@@ -1,0 +1,61 @@
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+section{
+    margin: 80px 0;
+
+}
+h1{
+    /*margin: 50px auto;*/
+    text-align: center;
+}
+.block{
+    width: 300px;
+    height: 100px;
+}
+.block--red, .block__doch--red{
+    background-color: red;
+}
+.block--green, .block__doch--green{
+    background-color: green;
+}
+.block--blue, .block__doch--blue{
+    background-color: blue;
+}
+.block--yellow{
+    background-color: yellow;
+}
+.block__child--grey{
+    background-color: grey;
+}
+.block__child--black{
+    background-color: black;
+}
+
+.block__item{
+    /*width: 33%;*/
+    width: calc(100% / 3);
+    height: 100px;
+    float: left;
+}
+.block__child{
+    width: calc(100% / 2);
+    height: 100px;
+    float: left;
+}
+.block__doch{
+    height: 100px;
+    width: calc(100% / 3);
+    float: left;
+    border: chartreuse 20px solid;
+}
+
+
+
+
+
+
+
+
+

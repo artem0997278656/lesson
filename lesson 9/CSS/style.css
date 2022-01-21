@@ -1,0 +1,27 @@
+.header{
+    width: 100%;
+    background-color: burlywood;
+    height: 80vh;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer{
+    background-color: cyan;
+    height: 20vh;
+}
+.left{
+    width: 45%;
+    height: 200px;
+    background-color: darkcyan;
+}
+.right{
+    width: 45%;
+    height: 200px;
+    background-color: darkcyan;
+}
+.info{
+    width:45%;
+    height: 200px;
+    background-color: darkcyan;
+}

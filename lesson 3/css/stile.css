@@ -1,0 +1,50 @@
+img{
+    width: 100px;
+}
+h1{
+    text-align: center;
+}
+table{ 
+    width: 100%;
+    height: 80vh;
+    border: 2px solid ;
+    border-collapse: collapse;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,9,0.3085609243697479) 80%, rgba(0,212,255,1) 100%);
+}
+th{ 
+    border: 1px solid;
+}
+th:hover{
+    background-color: linen;
+    border: 1px solid red;
+    color: royalblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

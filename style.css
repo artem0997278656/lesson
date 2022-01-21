@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: white;
+}
+.lesson{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.lesson-item{
+    width: 20%;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+}
+body{
+    background-color: black;
+}
+.lesson-item{
+   text-align: center;
+}
+.lesson-item{
+    background-color: cyan;
+    border: 1px solid;
+    color: cyan;
+}
+.lesson-item:hover{
+    box-shadow: 56px 42px 28px -7px rgb(255, 255, 255);
+}
+img{
+    margin: 45px;
+}
